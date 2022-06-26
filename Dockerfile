@@ -2,7 +2,7 @@
 # Creates a docker container with Nexus Artifact Repository
 #
 
-FROM centos:7
+FROM centos:8
 
 MAINTAINER Marcel Birkner <marcel.birkner@codecentric.de>
 
